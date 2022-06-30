@@ -1,0 +1,42 @@
+#img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:30%;
+    border-radius: 50%;
+
+}
+
+.about{
+    background-color: rgb(205, 219, 219);
+}
+
+.about p{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 300;
+    height: 100vh;
+}
+
+.about .ul{
+    display: flex;
+    align-items: center;
+    justify-content:right;
+    position:static;
+}
+
+.about .ul spans{
+    padding: 20px;
+}
+
+.cecilia{
+
+    text-transform: uppercase;
+}
+
+table{
+    
+    border: 2px solid;
+
+    
+}
